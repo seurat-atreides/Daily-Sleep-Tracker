@@ -4,7 +4,7 @@ This is an open source project from [DevProjects](http://www.codementor.io/proje
 Find the project requirements here: [Daily sleep tracker web app](https://www.codementor.io/projects/web/daily-sleep-tracker-web-app-byi4kpk5rt)
 
 ## Tech/framework used
-Built with ___
+Built with Node.js
 
 ## Screenshots and demo
 Screenshots of your app and/or a link to your live demo
